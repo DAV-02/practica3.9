@@ -1,0 +1,17 @@
+h1{
+    text-align: center;
+    color: yellow;
+}
+
+body{
+    background-color: rgb(127, 134, 83);
+}
+
+p{
+    color: yellow;
+}
+
+span{
+    font-weight: bold;
+    color: yellow;
+}

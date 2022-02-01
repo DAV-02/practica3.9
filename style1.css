@@ -1,0 +1,14 @@
+h3{
+    text-align: center;
+    background-color: yellow;
+    color: rgb(0, 0, 0);
+}
+
+p{
+    font-weight: bold;
+    color: rgb(244, 248, 21);
+}
+
+body{
+    background-color: rgb(127, 134, 83);
+}
